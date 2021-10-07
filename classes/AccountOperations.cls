@@ -20,11 +20,11 @@ public class AccountOperations {
         return a;
     }
     public static Account setDefaultPhone(Account a) {//DEV 1
-        a.Phone='611111111'; // DEV 1 updates
+        a.Phone='9164842385'; // DEV 2 updates
         return a;
     }
     public static Account setDefaultURL(Account a) { //DEV 1
-        a.website = 'www.copado-enterprise.com'; // DEV 1 updates
+        a.website = 'www.copado.com'; // DEV 2 updates
         return a;
     }
 }
